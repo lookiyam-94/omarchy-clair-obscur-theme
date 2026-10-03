@@ -15,7 +15,7 @@ A gilded "33" emblem set in a countdown-clock ring with drifting crimson petals,
 To use it as your boot screen:
 
 ```bash
-omarchy plymouth set-by-theme clair-obscur
+omarchy plymouth set by theme clair-obscur
 ```
 
 ## Install
