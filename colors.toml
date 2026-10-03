@@ -1,0 +1,37 @@
+# Clair Obscur: Expedition 33
+# Gilded Belle Époque gold on Paintress-night ink, with Lumière crimson,
+# aurora teal and the cream of an expedition journal.
+mode = "dark"
+
+accent = "#d4a85a"
+selection = "#3a3442"
+muted = "#5a5363"
+
+background = "#131217"
+dark_background = "#0e0d11"
+darker_background = "#09080b"
+lighter_background = "#24222b"
+
+foreground = "#e7d8b1"
+dark_foreground = "#8a806b"
+light_foreground = "#d6c8a4"
+bright_foreground = "#f4ead0"
+
+hyprland_active_border = "rgba(d4a85aee) rgba(b83a3aee) 45deg"
+hyprland_inactive_border = "rgba(3a3442aa)"
+
+red = "#b83a3a"
+yellow = "#e0b85c"
+orange = "#d9814a"
+green = "#8fa876"
+cyan = "#7fb5b0"
+blue = "#6f8fc4"
+magenta = "#b06a8f"
+brown = "#8a5a33"
+
+bright_red = "#d65a52"
+bright_yellow = "#f0cf80"
+bright_green = "#a9c290"
+bright_cyan = "#9fd0ca"
+bright_blue = "#93acd8"
+bright_magenta = "#cc8aab"
