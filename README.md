@@ -6,6 +6,18 @@ An [Omarchy](https://omarchy.org) theme inspired by **Clair Obscur: Expedition 3
 
 ![Theme preview](preview.png)
 
+### Boot / unlock screen
+
+A gilded "33" emblem set in a countdown-clock ring with drifting crimson petals, shown on the Plymouth disk-unlock screen.
+
+![Unlock preview](preview-unlock.png)
+
+To use it as your boot screen:
+
+```bash
+omarchy plymouth set-by-theme clair-obscur
+```
+
 ## Install
 
 ```bash
@@ -36,4 +48,4 @@ Ten wallpapers in `backgrounds/`. Cycle through them with `omarchy theme bg next
 
 ## Credits
 
-Clair Obscur: Expedition 33 and its artwork are © Sandfall Interactive / Kepler Interactive. Wallpapers are fan-collected from [wallhaven.cc](https://wallhaven.cc) and are included for personal use only; they are not covered by this repository's license. This is an unofficial fan theme.
+Clair Obscur: Expedition 33 and its artwork are © Sandfall Interactive / Kepler Interactive. Wallpapers are fan-collected from [wallhaven.cc](https://wallhaven.cc) and are included for personal use only; they are not covered by this repository's license. The unlock emblem is original artwork for this theme, set in [Cinzel](https://fonts.google.com/specimen/Cinzel) (SIL OFL). This is an unofficial fan theme.
